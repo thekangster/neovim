@@ -1,2 +1,1 @@
-# neovim
-my neovim config
+### an undocumented, lua neovim
